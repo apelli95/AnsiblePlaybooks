@@ -1,4 +1,5 @@
-172.16.56.10
+[centos]
+172.16.56.10 ansible_user=ameliapellicciotti
 172.16.56.16
 172.16.56.17
 172.16.56.18
