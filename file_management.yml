@@ -31,7 +31,6 @@
       state: latest
     when: ansible_distribution == "Ubuntu"
 
-
   - name: install apache and php for CentOS servers
     tags: apache,centos,httpd
     dnf:
